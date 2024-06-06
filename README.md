@@ -6,6 +6,7 @@ The focus of the capstone project revolves around predicting the success of the 
 - Webscraping using Beautiful Soup
 - Data Wrangling with Pandas
 - Analyzing the data using SQLITE
+- Creating DashBoard fro Spacex
 - EDA using matplotlib and seaborn for visualizing hidden patterns.
 - Predictive modeling using four(4) different machine learning algorithms
     - Logistic Regression
