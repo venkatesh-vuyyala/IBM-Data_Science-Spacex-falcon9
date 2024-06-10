@@ -14,3 +14,4 @@ The focus of the capstone project revolves around predicting the success of the 
     - Decision Tree Algorithm
     - K Nearest Neighbour
     - GridSearchCV
+<img width="576" alt="Screenshot 2024-06-10 at 2 48 41 PM" src="https://github.com/venkatesh-vuyyala/Spacex_Falcon9_FirstLaunch_Prediction/assets/126367292/fc8fa16e-6ad8-44ad-94af-db1297d3b4b8">
